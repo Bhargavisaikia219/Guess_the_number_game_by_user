@@ -28,8 +28,8 @@ def guess(x,y):
 
 #taking lower and upper limit of the range from the user
 
-x=int(input("Enter a range between which you what to guess a random number: lower limit:"))
-y=int(input("Enter a range between which you what to guess a random number: upper limit:"))
+x=int(input("Enter a range between which you want to guess a random number: lower limit:"))
+y=int(input("Enter a range between which you want to guess a random number: upper limit:"))
 
 #calling the function
 
